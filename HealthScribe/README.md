@@ -1,5 +1,5 @@
 - [AWS Announces AWS HealthScribe, a New Generative AI-Powered Service that Automatically Creates Clinical Documentation](https://press.aboutamazon.com/2023/7/aws-announces-aws-healthscribe-a-new-generative-ai-powered-service-that-automatically-creates-clinical-documentation)
-- []()
+- [HealthScribe Service](https://aws.amazon.com/healthscribe/)
 - []()
 - []()
 - []()
